@@ -59,6 +59,8 @@ Criando o arquivo TSConfig
 ```
 
 - Adicionando arquivo .gitignore
+- Configuracão do .npmrc (mantém as versões fixas)
+
 
 ```bash
   npm run start
