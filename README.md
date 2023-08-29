@@ -46,22 +46,16 @@ Gym pass style app.
 
 
 ## Comandos e configuracões do Projeto
-Iniciando Aplicacão
 
-```bash
-  npm init -y
-```
-
-Criando o arquivo TSConfig
-
-```bash
-  npx tsc --init
-```
-
+- Iniciando o Projeto
+    ```bash
+      npm init -y
+    ```
+- Criando o arquivo TSConfig
+    ```bash
+      npx tsc --init
+    ```
 - Adicionando arquivo .gitignore
 - Configuracão do .npmrc (mantém as versões fixas)
-
-
-```bash
-  npm run start
-```
+- Configuracão do EsLint
+- Configuracão das Variaveis de Ambiente
