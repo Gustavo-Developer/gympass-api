@@ -42,6 +42,8 @@ Gym pass style app.
 - Design Patters
 - Check-in
 - Armazenamento de Estados
+- Docker
+- Deploy
 
 
 
@@ -59,3 +61,11 @@ Gym pass style app.
 - Configuracão do .npmrc (mantém as versões fixas)
 - Configuracão do EsLint
 - Configuracão das Variaveis de Ambiente
+- Instalando e configurando o Prisma
+    ```bash
+      npx prisma init
+    ```
+
+    ```bash
+      npx prisma gerenate
+    ```
